@@ -49,7 +49,7 @@
       "network": "Netzwerk",
       "events": "Veranstaltungen",
       "community": "Community",
-      "news": "Neuigkeiten",
+      "news": "Newsletter",
       "newsletter": "Newsletter"
     },
     "solana": {
@@ -427,9 +427,14 @@
   },
   "validators": {
     "title": "Validatoren: Hilf dabei, das Netzwerk zu sichern und verdiene SOL",
+    "description": "Das Solana-Mainnet wird von Hunderten unabhängiger Validatoren gesichert. Sieh dir die aktuelle Anzahl der Validatoren und den Nakamoto-Koeffizienten an und erfahre, wie du einen Validator betreibst und SOL-Belohnungen verdienst.",
     "header": "Sichere das Ledger. Verdiene SOL.",
     "sub-header": "Dezentralisiere das Netzwerk, indem du Rechenressourcen bereitstellst.",
     "become-validator": "Werde Validator",
+    "cards": {
+      "number-text": "Validatoren, die im Mainnet abstimmen",
+      "nakamoto-text": "Nakamoto-Koeffizient: die wenigsten Validatoren, die zusammen mehr als ein Drittel des Stakes halten"
+    },
     "definition": {
       "title": "Validatoren bilden das Rückgrat des Solana-Netzwerks.",
       "text": "Durch die Verarbeitung von Transaktionen und die Teilnahme am Konsens hilft jeder Validator dabei, Solana zum zensurresistentesten und leistungsstärksten Blockchain-Netzwerk der Welt zu machen."
@@ -492,11 +497,6 @@
           "answer": "Validatoren können SOL verdienen, wenn sie dabei helfen, das Solana-Netzwerk zu sichern. <economicslink>Hier</economicslink> findest du einen Überblick über die Ökonomie und <stakinglink>hier</stakinglink> einen Überblick über Staking-Belohnungen. Außerdem erhöhen Validatoren die Zensurresistenz des Netzwerks, indem sie die Dezentralisierung fördern."
         }
       ]
-    },
-    "description": "Das Solana-Mainnet wird von Hunderten unabhängiger Validatoren gesichert. Sieh dir die aktuelle Anzahl der Validatoren und den Nakamoto-Koeffizienten an und erfahre, wie du einen Validator betreibst und SOL-Belohnungen verdienst.",
-    "cards": {
-      "number-text": "Validatoren, die im Mainnet abstimmen",
-      "nakamoto-text": "Nakamoto-Koeffizient: die wenigsten Validatoren, die zusammen mehr als ein Drittel des Stakes halten"
     }
   },
   "shared": {
