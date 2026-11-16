@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "files": {
+    "apps/web/content/learn/de/getting-started.mdx": {
+      "sha256": "922c18e3cc51cebaf13523fa33db0396cfc1c8687187ead3c6b00bdfdbd69429"
+    },
+    "apps/web/content/learn/de/sending-and-receiving-sol.mdx": {
+      "sha256": "120b3c9715c50e6e127ada8557b5cfc1ee7ae610048cfd6e9b15d7b02f6bcf37"
+    },
+    "apps/web/content/learn/de/what-is-a-wallet.mdx": {
+      "sha256": "7cb906118b95e31474161802ae2b39f0cab7567218ac5acbb4aa0c64b3b5eb6c"
+    },
+    "apps/web/content/learn/de/what-is-solana.mdx": {
+      "sha256": "9127315d6b8c2ffcfb60eed427a2aeebcddf7470ea136651b6185a04905963db"
+    },
+    "apps/web/content/learn/de/what-is-staking.mdx": {
+      "sha256": "86f8fcf91569ea3c08b2c9b4c1209424ce35bec76a370d5b692c762632b8a070"
+    },
+    "apps/web/content/learn/en/getting-started.mdx": {
+      "sha256": "b83ecabab2b0d81a26519f114cedbee285b243eb292acfa769150a814d9d1074"
+    },
+    "apps/web/content/learn/en/sending-and-receiving-sol.mdx": {
+      "sha256": "784f31ed87fe6a67c5df932ca61c0c0c0851c76cab63bd2bc313ac5a27ce9c28"
+    },
+    "apps/web/content/learn/en/what-is-a-wallet.mdx": {
+      "sha256": "df95de44abf19d4b696e3dda9a82835a809881d8ba8a4986b9b562a21916a8bb"
+    },
+    "apps/web/content/learn/en/what-is-solana.mdx": {
+      "sha256": "db26c3ff10646355b9302e664859b86c15406ed28a7d2bc43525185b6bcebe33"
+    },
+    "apps/web/content/learn/en/what-is-staking.mdx": {
+      "sha256": "80a3ebd9bed908a9543ea53cbfe46a5596f561447c3950873a2972d9a2a6ba7e"
+    },
+    "packages/i18n/messages/web/de/common.json": {
+      "sha256": "415ee544cd2f51a272755b437b5646d17fc9e573c5abbdda2c53bb900abe1760"
+    },
+    "packages/i18n/messages/web/en/common.json": {
+      "sha256": "4f6299056cc60650a7a39a70a89be053314a3105a01bb9ca677395eca056103f"
+    }
+  }
+}
