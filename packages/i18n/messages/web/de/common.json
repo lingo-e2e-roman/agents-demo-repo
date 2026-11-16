@@ -145,7 +145,7 @@
       "chapters": "Kapitel",
       "currentChapter": "Aktuelles kapitel",
       "chapterCategory": "Kapitelkategorie: {{category}}",
-      "goToNextChapter": "Zum nächsten Kapitel: {{titel}}",
+      "goToNextChapter": "Zum nächsten Kapitel: {{title}}",
       "chapterNavigationAriaLabel": "Kapitelnavigation",
       "tutorialNavigationAriaLabel": "Tutorial-Navigation",
       "previousChapterAriaLabel": "Vorheriges Kapitel: {{title}}",
@@ -285,7 +285,7 @@
         "reset": "Zurücksetzen",
         "devicePlatform": "Gerät und Plattform",
         "devicePlatformHint": "Wo du auf die Wallet zugreifen oder sie integrieren möchtest.",
-        "showWallets": "Zeige {count, plural, eins {# Wallet} andere {# Wallets}}",
+        "showWallets": "Zeige {count, plural, one {# Wallet} other {# Wallets}}",
         "resultCountAria": "{count, plural, one {# Ergebnis} other {# Ergebnisse}}",
         "platformGroups": {
           "apps": "Apps und Geräte",
