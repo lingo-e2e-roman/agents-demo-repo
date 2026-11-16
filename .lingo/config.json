@@ -1,0 +1,26 @@
+{
+  "sourceLocale": "en",
+  "targetLocales": [
+    "de"
+  ],
+  "files": [
+    {
+      "pattern": "packages/i18n/messages/web/en/common.json"
+    },
+    {
+      "pattern": "apps/web/content/learn/en/*.mdx"
+    }
+  ],
+  "orgId": "org_lNXmf1TL6b87KvdjrH0M",
+  "engineId": "eng_00sCaD0WDP6ZcXCZRu2b",
+  "github": {
+    "workflows": {
+      "onPushToDefaultBranch": {
+        "enabled": true
+      },
+      "onPullRequest": {
+        "enabled": false
+      }
+    }
+  }
+}
