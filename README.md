@@ -28,3 +28,24 @@ Missing translations fall back to English.
 pnpm install
 pnpm dev:web
 ```
+
+Use Node.js 24 and pnpm 11.13.1 (`npx pnpm@11.13.1` also works).
+Open `/en/learn` or `/de/learn` on the local server to compare languages.
+The MDX articles are translation fixtures; this cut-down app does not render
+individual article pages.
+
+```bash
+pnpm check-types
+pnpm build
+```
+
+## Demo starting point
+
+The repository deliberately starts without Lingo.dev configuration or agent
+instructions. Existing German translations are retained so the setup agent can
+review them before translating missing content. The English catalog and five
+English MDX articles are the sources; one German article already exists.
+
+Account sign-in, MCP authorization and GitHub App installation live outside the
+repository. Use a separate macOS user and browser profile for a genuinely new-user
+recording rather than removing credentials from your everyday environment.

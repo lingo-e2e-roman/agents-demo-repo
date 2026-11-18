@@ -2,6 +2,10 @@ packages:
   - apps/*
   - packages/*
 
+allowBuilds:
+  '@parcel/watcher': true
+  '@swc/core': true
+
 catalog:
   next: 15.5.28
   next-intl: 4.13.4

@@ -1,4 +1,5 @@
 .next/
+*.tsbuildinfo
 .turbo/
 .source/
 node_modules/

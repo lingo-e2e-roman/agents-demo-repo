@@ -21,7 +21,7 @@
     "typescript": "5.8.3"
   },
   "scripts": {
-    "build": "pnpm run generate:sitemap && NODE_OPTIONS='--max-old-space-size=8192' next build",
+    "build": "next build",
     "dev": "next dev",
     "start": "next start",
     "check-types": "tsc --noEmit"

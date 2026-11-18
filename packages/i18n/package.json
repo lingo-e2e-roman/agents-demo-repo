@@ -14,8 +14,6 @@
     "clean": "node ../../scripts/clean.mjs ."
   },
   "devDependencies": {
-    "@workspace/config-oxlint": "workspace:*",
-    "@workspace/config-typescript": "workspace:*",
     "@types/node": "^24.13.3",
     "@types/react": "^19.0.14",
     "@types/react-dom": "^19.0.6",
