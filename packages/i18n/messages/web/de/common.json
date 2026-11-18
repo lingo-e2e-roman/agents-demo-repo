@@ -9,7 +9,7 @@
     "copyright": "© {currentYear} Solana Foundation. Alle Rechte vorbehalten.",
     "useSolana": {
       "heading": "Solana nutzen",
-      "hub": "Solana nutzen",
+      "hub": "ALLES nutzen",
       "wallets": "Wallets",
       "learn": "Lernen",
       "staking": "Staking"
@@ -440,7 +440,7 @@
         "protocol-header": "Protokollbasierte Belohnungen",
         "protocol-text": "Ausgaben aus einer globalen, protokolldefinierten Inflationsrate. Diese Belohnungen werden zusätzlich zu den Einnahmen aus Transaktionsgebühren geliefert.",
         "staking-header": "Staking",
-        "staking-text": "Staker werden dafür belohnt, dass sie bei der Validierung des Ledgers helfen, indem sie ihren Stake an validierende Knoten delegieren. Diese Validatoren geben den Ledger wieder und senden Stimmen an einen für deren Node zugehörigen Account, an welchen auch die Stakes delegiert werden. Der Rest des Clusters bezieht sich auf diese, mit Stake-gewichteten Stimmen, um den nächsten Block im Falle eines Forks bestimmen zu können.",
+        "staking-text": "Staker werden dafür belohnt, dass sie bei der Validierung des Ledgers helfen, indem sie ihren Stake an validierende Knoten delegieren. Diese Validatoren geben den Ledger wieder und senden Stimmen an das Abstimmungskonto des jeweiligen Knotens, an welches auch die Stakes delegiert werden. Der Rest des Clusters bezieht sich auf diese, mit Stake-gewichteten Stimmen, um den nächsten Block im Falle eines Forks bestimmen zu können.",
         "stake-pool-header": "Stake Pools",
         "stake-pool-text": "Stake Pools sind eine Liquid-Staking-Lösung, die Zensurresistenz, Dezentralisierung und das Wachstum von DeFi auf Solana fördert."
       }
